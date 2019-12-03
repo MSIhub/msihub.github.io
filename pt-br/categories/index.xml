@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Mohamed Sadiq IKBAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://msihub.github.io/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://msihub.github.io/pt-br/categories/blog/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://msihub.github.io/pt-br/categories/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
