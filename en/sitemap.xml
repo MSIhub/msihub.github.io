@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://msihub.github.io/series/hugo/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://msihub.github.io/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,6 +35,26 @@
                 hreflang="en"
                 href="https://msihub.github.io/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://msihub.github.io/series/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://msihub.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://msihub.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://msihub.github.io/series/theme/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -100,20 +125,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://msihub.github.io/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://msihub.github.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://msihub.github.io/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://msihub.github.io/series/"
                 />
   </url>
   
