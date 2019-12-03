@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://msihub.github.io/pt-br/projets/</loc>
+    <loc>https://msihub.github.io/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,7 +116,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://msihub.github.io/pt-br/projets/"
+                href="https://msihub.github.io/pt-br/projects/"
                 />
   </url>
   
